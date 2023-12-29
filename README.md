@@ -1,6 +1,6 @@
 # Express JS API
 
-
+This repository contains the Express API that was built by me.
 
 ## Features
 
