@@ -66,4 +66,3 @@ I created this file towards the end of the course to setup integration tests. Th
 
 8. Replace the `clientID`, `clientSecret`, `callbackURL`, and `scope` in the Strategy Options object passed to the Strategy constructor with your own provider's OAuth client values.
 
-For all further questions, you may reach out to me via Email `ansfoong@gmail.com`. You can also join my Community Discord Server and receive extensive help with programming related questions. [Link to Discord](https://discord.gg/XdnAmghP).
